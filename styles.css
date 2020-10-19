@@ -1,0 +1,34 @@
+
+
+
+
+p{font-family: 'Roboto', sans-serif;}
+
+body{background-image: url('back.png');text-align:center;}
+
+h1{ background-colo:black;}
+
+footer{background-color: black;padding: 1%;line-height: 1,5; margin-left: position: static; }
+
+article{padding: 0,5%;width: auto; margin: auto;line-height: 1,5;}
+
+section{padding: 1%;line-height: 1,5;}
+
+.formato{width: auto; margin: auto; line-height: 1,5;}
+
+.cabeçalho{padding: 50px;}
+.sobremim{font-size: 270%;}
+
+ul{font-size: 120%;}
+nav{ border: 5px solid blanchedalmond; border-radius: 20px;}
+
+.CONF{ float :right;width:auto;height:auto;}
+
+.mainn{padding-bottom: 20%;}
+.maine{padding: 12%;}
+.maini{padding-top:#;}
+.fonte{font-size: 180%;}
+.fonte2{ font-size: 120%;text-align: right;}
+
+
+
